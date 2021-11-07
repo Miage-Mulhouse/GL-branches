@@ -4,3 +4,4 @@
 4. Version opérationnelle
 5. Ajout d’une fonctionnalité
 6. Correction d'un bug
+7. Version opérationnelle

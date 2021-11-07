@@ -5,3 +5,4 @@
 5. Ajout d’une fonctionnalité
 6. Correction d'un bug
 7. Version opérationnelle
+8. Refactoring

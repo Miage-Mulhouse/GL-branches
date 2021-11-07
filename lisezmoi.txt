@@ -1,3 +1,4 @@
 1. Validation initiale
 2. Version qui marche pas encore
 3. Oops !
+4. Version opérationnelle

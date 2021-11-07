@@ -1,1 +1,2 @@
 1. Validation initiale
+2. Version qui marche pas encore

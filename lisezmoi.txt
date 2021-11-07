@@ -3,3 +3,4 @@
 3. Oops !
 4. Version opérationnelle
 5. Ajout d’une fonctionnalité
+6. Correction d'un bug
